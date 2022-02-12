@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/transferwise-currency-converter/static/css/main.ea2f5d1e.css",
+    "main.js": "/transferwise-currency-converter/static/js/main.2b698523.js",
+    "static/media/TW-Averta-Regular.woff": "/transferwise-currency-converter/static/media/TW-Averta-Regular.39dcf8ac6efc6b694aab.woff",
+    "static/media/TW-Averta-Semibold.woff": "/transferwise-currency-converter/static/media/TW-Averta-Semibold.1e2c57290a4a5324dd03.woff",
+    "static/media/TW-Averta-Bold.woff": "/transferwise-currency-converter/static/media/TW-Averta-Bold.a6843c3f2e50e223ceca.woff",
+    "static/media/TW-Averta-Regular.woff2": "/transferwise-currency-converter/static/media/TW-Averta-Regular.7a03b28d6c398273a890.woff2",
+    "static/media/TW-Averta-Bold.woff2": "/transferwise-currency-converter/static/media/TW-Averta-Bold.c0a5ca110dc2d1669a12.woff2",
+    "static/media/TW-Averta-Semibold.woff2": "/transferwise-currency-converter/static/media/TW-Averta-Semibold.9ebb016a5dfac0f64cef.woff2",
+    "static/media/bg-light.svg": "/transferwise-currency-converter/static/media/bg-light.b1352dbc780b2cda59df.svg",
+    "static/media/bg-dark.svg": "/transferwise-currency-converter/static/media/bg-dark.d39105deab1dd632bc0f.svg",
+    "index.html": "/transferwise-currency-converter/index.html",
+    "main.ea2f5d1e.css.map": "/transferwise-currency-converter/static/css/main.ea2f5d1e.css.map",
+    "main.2b698523.js.map": "/transferwise-currency-converter/static/js/main.2b698523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea2f5d1e.css",
+    "static/js/main.2b698523.js"
+  ]
+}
