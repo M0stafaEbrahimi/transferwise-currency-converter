@@ -8,6 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #37517e;
 }
 h1 {
   text-align: center;
@@ -17,4 +18,14 @@ h2 {
   text-align: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+.moneyInput {
+  position: relative;
+}
+.moneyInput label {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  margin-bottom: 0;
+  z-index: 1;
 }

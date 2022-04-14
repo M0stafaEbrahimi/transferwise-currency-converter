@@ -1,0 +1,115 @@
+.timeline-area {
+  margin: 20px auto;
+  width: 350px;
+  border-left: 2px solid #ccc;
+  padding: 0 20px 0 30px;
+  list-style: none;
+}
+li {
+  display: flex;
+  color: white;
+  margin-bottom: 15px;
+  justify-content: flex-start;
+  align-items: center;
+  max-height: 24px;
+}
+
+select {
+  min-width: 185px;
+  color: black;
+}
+.fee-details {
+  margin-right: 8px;
+  min-width: 96px;
+}
+.amount-details {
+  margin-right: 8px;
+  min-width: 96px;
+  color: #c9cbce;
+}
+.generated-rate {
+  margin-right: 8px;
+  min-width: 96px;
+  color: #0097c7;
+}
+.fee-text {
+  margin-left: 8px;
+  color: #c9cbce;
+}
+.fee-amount {
+  color: #c9cbce;
+}
+
+.fee-rate {
+  margin-left: -20px;
+}
+.first {
+  position: relative;
+}
+.first::before {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #2e4369;
+  border: 3px solid #ddd;
+  position: absolute;
+  top: 3px;
+  left: -41px;
+}
+.first::after {
+  content: "\005F";
+  display: block;
+  position: absolute;
+  padding: 5px;
+  top: -10px;
+  left: -40px;
+}
+.second {
+  position: relative;
+}
+.second::before {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #2e4369;
+  border: 3px solid #ddd;
+  position: absolute;
+  top: 3px;
+  left: -41px;
+}
+.second::after {
+  content: "\003D";
+  display: block;
+  position: absolute;
+  padding: 5px;
+  top: -5px;
+  left: -41px;
+}
+.three {
+  position: relative;
+  max-height: 24px;
+}
+.three::before {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #2e4369;
+  border: 3px solid #ddd;
+  position: absolute;
+  top: 1.3px;
+  left: -41px;
+}
+.three::after {
+  content: "\2715";
+  display: block;
+  position: absolute;
+  padding: 5px;
+  top: -7px;
+  left: -39px;
+}
